@@ -21,3 +21,6 @@ wouldn’t
 couldn’t
 won’t
 don’t
+dont
+wont 
+

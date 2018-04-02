@@ -65,7 +65,7 @@ def InputRec(text, Session):
                 NextTopic = "Cost"
                 Reply = ("Do you have any other concerns? What about the " + NextTopic + "?" + '\n' + "If you have no other concerns click End to stop.")
             else:
-                Reply = "Thank you for taking part, please remember to complete the questionnaire"
+                Reply = "Thank you for taking part, please select End to be taken to the questionnaire"
             t.TemplatesUsed = False
             t.ReasonGiven = False
             t.TopicComplete = False
